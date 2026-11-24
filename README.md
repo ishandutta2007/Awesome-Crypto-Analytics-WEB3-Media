@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Crypto-Analytics-WEB3-Media/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Crypto-Analytics-WEB3-Media?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Crypto-Analytics-WEB3-Media/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Crypto-Analytics-WEB3-Media?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Crypto-Analytics-WEB3-Media/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Crypto-Analytics-WEB3-Media?style=social" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Crypto-Analytics-WEB3-Media/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Crypto-Analytics-WEB3-Media?color=blue" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -157,7 +157,7 @@ Contributions are warmly welcomed! Help keep this repository the premier destina
 
 1. **Fork the Repository** on GitHub.
 2. **Create a Feature Branch** (`git checkout -b feature/new-analytics-tool`).
-3. **Add your Tool**: Ensure it fits either the SaaS table (with pricing, free tier limits, and company size) or the Open-Source section (with valid GitHub repository link and star badge).
+3. **Add your Tool**: Ensure it fits either the SaaS table (with pricing, free tier limits, and company size) or the Open-Source section (with valid GitHub repository link and Stars_Badge).
 4. **Verify Links & Syntax**: Ensure markdown formatting conforms to repository standards.
 5. **Open a Pull Request** with a concise description of the platform's merits.
 
